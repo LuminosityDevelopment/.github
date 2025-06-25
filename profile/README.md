@@ -1,8 +1,10 @@
-An anonymous development group focused on ChromeOS exploits, utilities, mods, bypasses, etc.
+just lock in 💔🥀✌
 
 Projects:
-- [Yet Another Chrome Mod](https://github.com/LuminosityDevelopment/yacm)
-- [Kernver Automatic Update Blocker](https://github.com/LuminosityDevelopment/kaub)
+- [Yet Another Chrome Mod (NOT RELEASED)](https://github.com/LuminosityDevelopment/yacm)
+- [Kernver Automatic Update Blocker (NOT RELEASED)](https://github.com/LuminosityDevelopment/kaub)
+- [libwisp-rs](https://github.com/LuminosityDevelopment/libwisp-rs)
+
 
 Members:
 - nuh uh
